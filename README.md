@@ -39,6 +39,17 @@ This project includes a Logistic Regression model trained on the Titanic dataset
 5. Training a Logistic Regression model.
 6. Evaluating model performance using accuracy score and classification report.
 
+## Visualizations
+The project includes various visualizations to explore data trends:
+- Histograms
+- Box plots
+- Correlation heatmaps
+
+## Contributing
+Feel free to contribute by submitting pull requests or reporting issues.
+
+## License
+This project is licensed under the MIT License.
 
 
 
