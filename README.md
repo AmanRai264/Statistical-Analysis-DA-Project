@@ -30,6 +30,16 @@ git clone <repository-url>
 cd <project-folder>
 jupyter notebook "Statistical Analysis DA Project.ipynb"
 ```
+## Machine Learning Model
+This project includes a Logistic Regression model trained on the Titanic dataset to predict survival probabilities. The workflow includes:
+1. Loading the Titanic dataset.
+2. Selecting relevant features (`Pclass`, `Sex`, `Age`, `Fare`, `Survived`).
+3. Preprocessing the data (handling missing values, encoding categorical features).
+4. Splitting the dataset into training and test sets.
+5. Training a Logistic Regression model.
+6. Evaluating model performance using accuracy score and classification report.
+
+
 
 
 
